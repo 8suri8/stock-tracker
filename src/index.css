@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #eef0f8;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
