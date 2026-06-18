@@ -14,6 +14,7 @@ export const SEED_ITEMS = {
     { id: "broadway_10", name: "Broadway ½ pack (10s)", price: 20.0 },
     { id: "du_maurier_20", name: "Du Maurier pack (20s)", price: 25.0 },
     { id: "du_maurier_10", name: "Du Maurier ½ pack (10s)", price: 15.0 },
+    { id: "du_maurier_short_20", name: "Du Maurier Short Pack (20s)", price: 38.0 },
     { id: "lm_white_20", name: "LM White pack (20s)", price: 28.0 },
     { id: "lm_white_10", name: "LM White ½ pack (10s)", price: 15.0 },
     { id: "lm_red_20", name: "LM Red pack (20s)", price: 24.0 },
